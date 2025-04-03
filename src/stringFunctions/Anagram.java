@@ -42,6 +42,8 @@ public class Anagram {
 			}
 			else {
 				System.out.println("This is not an anagram");
+				System.out.println("This is not an anagram");
+				System.out.println("This is not an anagram");
 			}
 		
 			
